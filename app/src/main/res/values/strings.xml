@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewGroups</string>
+    <string name="content_text">Android merupakan sistem operasi yang dikembangkan untuk perangkat mobile berbasis Linux. Pada awalnya sistem operasi ini dikembangkan oleh Android Inc. Yang kemudian dibeli oleh Google pada tahun 2005.</string>
+    <string name="content_specs_display">5.0 inches\n
+    FADH AMOLED AT 441ppi\n
+    2.5D Corning Gorila Glass 4</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">2.770 mAh battery\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
